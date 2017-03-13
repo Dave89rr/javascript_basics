@@ -1,0 +1,26 @@
+.card {
+  max-width: 300px;
+  position: absolute;
+  left: 40%;
+}
+
+.container {
+  height: 400px;
+  width: 100%;
+  position: absolute;
+  top: -200px;
+  z-index: -1;
+}
+
+button {
+
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    top: 500px;
+    left: 45%;
+}
